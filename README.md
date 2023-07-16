@@ -6,5 +6,6 @@ Sou estudante de Programação FullStack, sigo absolvendo conhecimentos e cresce
 
 - 🔭 Atualmente estou trabalhando em Trade Marketing.
 - 🌱 No momento estou aprendendo HTML, CSS e JavaScript.
-- 😄 Pronomes: Ele /Dele.
+- 🛝 Escutar músicas e cozinhar para mim é uma terapia.
+- 😄 Pronomes: Ele/Dele.
 
